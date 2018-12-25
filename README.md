@@ -8,4 +8,11 @@ https://www.oracle.com/webfolder/technetwork/tutorials/OracleCode/Windows-HOL-se
 
 this command will Install java and javac--
 sudo yum install java-1.8.0-openjdk-devel
-unstall java--sudo yum remove java-1.8.0-openjdk-devel
+==============================================
+
+unstall java--
+sudo yum remove java-1.8.0-openjdk-devel
+=============================================
+installing maven on centos
+https://tecadmin.net/install-apache-maven-on-centos/
+
