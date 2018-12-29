@@ -15,4 +15,10 @@ sudo yum remove java-1.8.0-openjdk-devel
 =============================================
 installing maven on centos
 https://tecadmin.net/install-apache-maven-on-centos/
-
+vi  ~/.bashrc
+M2_HOME=/opt/maven3
+PATH=$M2_HOME/bin:$PATH
+source ~/.bashrc
+http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar xzf apache-maven-3.5.4-bin.tar.gz
+sudo ln -s apache-maven-3.5.4 maven
