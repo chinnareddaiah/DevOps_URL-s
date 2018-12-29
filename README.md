@@ -22,3 +22,6 @@ source ~/.bashrc
 http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
 sudo tar xzf apache-maven-3.5.4-bin.tar.gz
 sudo ln -s apache-maven-3.5.4 maven
+======================================
+addiing docker to sudo mode
+https://github.com/sindresorhus/guides/blob/master/docker-without-sudo.md
