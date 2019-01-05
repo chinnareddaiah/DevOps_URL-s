@@ -26,3 +26,7 @@ sudo ln -s apache-maven-3.5.4 maven
 addiing docker to sudo mode
 https://github.com/sindresorhus/guides/blob/master/docker-without-sudo.md
 https://docs.docker.com/install/linux/linux-postinstall/#specify-dns-servers-for-docker
+============================
+shell script tutorials
+https://linuxhint.com/30_bash_script_examples/
+
